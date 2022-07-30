@@ -7,6 +7,9 @@ module.exports = {
     extend: {
       colors:{
         background:"#0D1A2D"
+      },
+      fontFamily:{
+        Outfit:["Outfit",'sans-serif']
       }
     },
   },
